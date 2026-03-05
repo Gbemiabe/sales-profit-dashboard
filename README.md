@@ -9,10 +9,10 @@ This project analyzes **sales performance and profitability** to answer:
 
 ## Files in this repo
 ### Executive report (PDF)
-- `outputs/adura_datahub_project1_report_EXPANDED.pdf`
+- `outputs/adura_datahub_project1_report_.pdf`
 
 ### Dashboard workbook (Excel)
-- `adura_datahub_project1_sales_profit_dashboard_v2.xlsx`
+- `adura_datahub_project1_sales_profit_dashboard_.xlsx`
 
 ### Visuals (PNG charts)
 See the `outputs/` folder:
